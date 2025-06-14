@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "Jak se jmenuješ?",
+    "answer": "Jsem chytrý bot, co ti pomůže! 🤖"
+  },
+  {
+    "id": 2,
+    "question": "Kde najdu kontakt?",
+    "answer": "Kontakt najdeš na webu example.cz 📞"
+  },
+  {
+    "id": 3,
+    "question": "Jak ti můžu pomoct?",
+    "answer": "Stačí mi položit otázku a já ti zkusím odpovědět! 😊"
+  }
+]
